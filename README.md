@@ -26,6 +26,4 @@ Before running the project, ensure you have the following installed:
 * Valorant running in **Borderless Windowed** or **Windowed** mode (Eğer piksel tabanlıysa bu uyarı önemli)
 
 ### Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/valock.git](https://github.com/YOUR_USERNAME/valock.git)
+https://youtu.be/JFLa36yIfIg?si=MoaQx_5w4JvfK1Rp
