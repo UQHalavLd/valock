@@ -1,0 +1,138 @@
+{
+    "char_breach": [
+        189,
+        348
+    ],
+    "char_fade": [
+        380,
+        445
+    ],
+    "char_gekko": [
+        84,
+        542
+    ],
+    "char_kay/o": [
+        88,
+        640
+    ],
+    "char_skye": [
+        181,
+        841
+    ],
+    "char_sova": [
+        289,
+        837
+    ],
+    "char_tejo": [
+        381,
+        842
+    ],
+    "char_i\u0307so": [
+        285,
+        539
+    ],
+    "char_jett": [
+        382,
+        538
+    ],
+    "char_neon": [
+        381,
+        636
+    ],
+    "char_phoenix": [
+        186,
+        741
+    ],
+    "char_raze": [
+        279,
+        749
+    ],
+    "char_reyna": [
+        374,
+        738
+    ],
+    "char_waylay": [
+        286,
+        447
+    ],
+    "char_yoru": [
+        383,
+        449
+    ],
+    "char_chamber": [
+        372,
+        351
+    ],
+    "char_cypher": [
+        190,
+        444
+    ],
+    "char_deadlock": [
+        285,
+        444
+    ],
+    "char_killjoy": [
+        181,
+        640
+    ],
+    "char_sage": [
+        85,
+        839
+    ],
+    "char_vyse": [
+        184,
+        440
+    ],
+    "char_veto": [
+        277,
+        445
+    ],
+    "char_astra": [
+        87,
+        344
+    ],
+    "char_brimstone": [
+        289,
+        347
+    ],
+    "char_clove": [
+        78,
+        446
+    ],
+    "char_harbor": [
+        180,
+        541
+    ],
+    "char_miks": [
+        280,
+        638
+    ],
+    "char_omen": [
+        86,
+        735
+    ],
+    "char_viper": [
+        289,
+        440
+    ],
+    "lock_tr": [
+        950,
+        751
+    ],
+    "role_tab_duelist": [
+        239,
+        251
+    ],
+    "role_tab_sentinel": [
+        311,
+        248
+    ],
+    "role_tab_controller": [
+        391,
+        249
+    ],
+    "role_tab_tiator": [
+        152,
+        249
+    ]
+}
