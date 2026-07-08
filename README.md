@@ -26,4 +26,4 @@ Before running the project, ensure you have the following installed:
 * Valorant running in **Borderless Windowed** or **Windowed** mode (Eğer piksel tabanlıysa bu uyarı önemli)
 
 ### Installation & Usage
-https://youtu.be/JFLa36yIfIg?si=MoaQx_5w4JvfK1Rp
+https://youtu.be/81qGi8UnHeE
